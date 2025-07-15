@@ -1,11 +1,9 @@
 # 👋 Hey, I’m Seetharam Damarla
 
-- 🎓 BTech CSE | Cybersecurity Enthusiast | Python Developer  
-- 🛡️ Exploring the art of ethical hacking and finding vulnerabilities, exploiting them ethically.
-- 🕸️ Passionate about networking and diving deep into bug bounty & CTF challenges
+🎓 BTech CSE | Cybersecurity Enthusiast | Python Developer<br/>
+🛡️ Exploring the art of ethical hacking and finding vulnerabilities, exploiting them ethically.</br>
+🕸️ Passionate about networking and diving deep into bug bounty & CTF challenges</br>
 
-
----
 
 ## 🧠 About Me
 
