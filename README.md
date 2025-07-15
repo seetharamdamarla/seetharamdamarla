@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I’m Seetharam Damarla
 
-<!--
-**seetharamdamarla/seetharamdamarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BTech CSE | Cybersecurity Enthusiast | Python Developer  
+- 🛡️ Exploring the art of ethical hacking and finding vulnerabilities, exploiting them ethically.
+- 🕸️ Passionate about networking and diving deep into bug bounty & CTF challenges
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔧 Working on:  
+     Hands-on cybersecurity projects focused on ethical hacking and vulnerability detection
+
+- 🧪 Experimenting with:  
+     Kali Linux, Wireshark, Burp Suite, Nmap, Flask
+
+- 🌱 Learning more about:  
+     Network Security • Pen Testing • OSINT • Linux Internals
+
+- 🤝 Open to collaborating on:  
+     Python tools, web apps, and cyber defense projects
+
