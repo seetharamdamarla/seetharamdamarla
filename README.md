@@ -18,4 +18,3 @@
 
 - 🤝 Open to collaborating on:  
      Python tools, web apps, and cyber defense projects
-
