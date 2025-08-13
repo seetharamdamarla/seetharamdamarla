@@ -11,10 +11,10 @@
      Hands-on cybersecurity projects focused on ethical hacking and vulnerability detection
 
 - 🧪 Experimenting with:  
-     Kali Linux, Wireshark, Burp Suite, Nmap, Flask
+     Kali Linux, Wireshark, Burp Suite, Nmap, Metasploit
 
 - 🌱 Learning more about:  
      Network Security • Pen Testing • OSINT • Linux Internals
 
 - 🤝 Open to collaborating on:  
-     Python tools, web apps, and cyber defense projects
+     Python tools, web apps, and cyber security projects
