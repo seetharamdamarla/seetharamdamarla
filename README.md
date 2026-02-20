@@ -54,8 +54,8 @@ I’m currently working on **[PhishGuard](https://github.com/seetharamdamarla/ph
 |:---:|:---|
 | **[PhishGuard](https://github.com/seetharamdamarla/phishguard)** | An advanced AI-powered phishing detection and analysis platform designed to identify and flag malicious emails and websites. |
 | **[DefendX](https://github.com/seetharamdamarla/DefendX)** | Automated vulnerability detection and attack surface monitoring platform for proactive security defense. |
-| **[NetworkSniffer](https://github.com/seetharamdamarla/NetworkSniffer)** | A Python-based network packet sniffer using Scapy to capture and analyze network traffic in real-time. |
-| **[Password Security Tool](https://github.com/seetharamdamarla/password-security-tool)** | A utility for analyzing password strength and generating custom wordlists using personal data patterns. |
+| **[KeyScope](https://github.com/seetharamdamarla/keyscope)** | Advanced Educational Keystroke Forensics & Biometric Analysis Tool for visualizing keystroke surveillance, data exfiltration, and behavioral biometrics using Python. |
+| **[SSH Log Analysis with Splunk](https://github.com/seetharamdamarla/ssh-log-analysis-splunk)** | A comprehensive Security Operations Center (SOC) project demonstrating the detection, analysis, and visualization of SSH authentication brute-force attacks using Splunk Enterprise. |
 
 </div>
 
