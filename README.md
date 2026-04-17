@@ -12,7 +12,7 @@ I'm a **Computer Science Engineering student** with a deep passion for **Cyberse
 
 I’m currently focusing on **Blue Teaming Defense**, **SOC Skills**, and **Threat Hunting**.
 
-I’m currently working on **[PhishGuard](https://github.com/seetharamdamarla/phishguard)** and **[DefendX](https://github.com/seetharamdamarla/DefendX)**.
+I’m currently working on **[SentinelSIEM](https://github.com/seetharamdamarla/SentinelSIEM)** and **PersonalFirewall**.
 
 </div>
 
@@ -40,8 +40,6 @@ I’m currently working on **[PhishGuard](https://github.com/seetharamdamarla/ph
 
 ![Seetharam's GitHub Stats](https://github-readme-stats-private.vercel.app/api?username=seetharamdamarla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
 
-
-
 </div>
 
 ---
@@ -52,8 +50,8 @@ I’m currently working on **[PhishGuard](https://github.com/seetharamdamarla/ph
 
 | **Project** | **Description** |
 |:---:|:---|
+| **[SentinelSIEM](https://github.com/seetharamdamarla/SentinelSIEM)** | A comprehensive Security Information and Event Management (SIEM) solution designed for monitoring and threat detection. |
 | **[PhishGuard](https://github.com/seetharamdamarla/phishguard)** | An advanced AI-powered phishing detection and analysis platform designed to identify and flag malicious emails and websites. |
-| **[DefendX](https://github.com/seetharamdamarla/DefendX)** | Automated vulnerability detection and attack surface monitoring platform for proactive security defense. |
 | **[KeyScope](https://github.com/seetharamdamarla/keyscope)** | Advanced Educational Keystroke Forensics & Biometric Analysis Tool for visualizing keystroke surveillance, data exfiltration, and behavioral biometrics using Python. |
 | **[SSH Log Analysis with Splunk](https://github.com/seetharamdamarla/ssh-log-analysis-splunk)** | A comprehensive Security Operations Center (SOC) project demonstrating the detection, analysis, and visualization of SSH authentication brute-force attacks using Splunk Enterprise. |
 
