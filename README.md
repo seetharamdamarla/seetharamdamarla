@@ -12,7 +12,7 @@ I'm a **Computer Science Engineering student** with a deep passion for **Cyberse
 
 I’m currently focusing on **Blue Teaming Defense**, **SOC Skills**, and **Threat Hunting**.
 
-I’m currently working on **[SentinelSIEM](https://github.com/seetharamdamarla/SentinelSIEM)** and **[PersonalFirewall](https://github.com/seetharamdamarla/personal-firewall)**.
+I’m currently working on **[PersonalFirewall](https://github.com/seetharamdamarla/personal-firewall)**.
 
 </div>
 
